@@ -1,0 +1,2 @@
+# AI-Powered-Smart-Cost-Estimation-for-Construction-Planning
+In this project, we developed a machine learning-based predictive model to accurately estimate final construction costs using real-world construction data from 2004 to 2023. Our AI solution analyzes key factors like project type, area, duration, and contractor grade to help planners make smarter, faster, and more cost-effective decisions.
