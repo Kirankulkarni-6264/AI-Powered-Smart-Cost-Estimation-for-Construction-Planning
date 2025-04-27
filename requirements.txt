@@ -1,0 +1,12 @@
+langchain
+python-dotenv
+ipykernel
+langchain-community
+langchain-text-splitters
+langchain-openai
+sentence_transformers
+langchain_huggingface
+langchain_chroma
+pandas
+openai
+streamlit
